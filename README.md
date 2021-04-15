@@ -1,5 +1,7 @@
 # Basic Mandelbrot implementation using Python
 
+[Click here to see an example](https://raw.githubusercontent.com/Luuk2016/mandelbrot-python/master/mandelbrot.png)
+
 ### Prerequisites
 
 * The <a href="https://www.python.org/">Python</a> interpreter with version 3.7.x as minimum (make sure you add it to your path)
